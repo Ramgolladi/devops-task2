@@ -21,3 +21,24 @@ git add sis.xml
 echo ram.xml
 git commit
 git branch
+git branch -a
+git fetch --all --prune
+git branch
+git checkout
+git checkout -b
+git checkout
+whoami
+ls
+which git
+mkdir dev1
+mkdir dev2
+mkdir dev2/day3
+mkdir dev2/day3/prg.xml
+tree dev2
+git status
+git init
+git add .
+git status
+git commit -m "files added"
+git config --global -- edit
+git config --global --edit
